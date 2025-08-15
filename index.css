@@ -348,12 +348,12 @@ footer .container{
     }
 }
 
-@media (min-width: 1200px) {
+/*@media (min-width: 1200px) {
     #caracteristicas{
-        background-position-x: calc(100vw - 800px);
+        background-position-x: calc(100vw - 800px);*/
     }
     
-}
+}*/
 @media (max-width: 768px) {
     .container{ 
         flex-direction: column;
