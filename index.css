@@ -352,4 +352,14 @@ footer .container{
     #caracteristicas{
         background-position-x: calc(100vw - 800px);
     }
+    
+}
+@media (min-width: 768px) {
+    #caracteristicas{
+        background-position-x: calc(100vw - 800px);
+    }
+    .container{ 
+        flex-direction: column;
+
+    }
 }
